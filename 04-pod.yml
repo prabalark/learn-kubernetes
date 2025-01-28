@@ -15,9 +15,9 @@ spec:
 apiVersion: v1
 kind: Pod
 metadata:
-  name: nginx04.01
+  name: nginx041
   labels:
-    app: nginx
+    app: nginx02
 spec:
   containers:
     - name: nginx01
